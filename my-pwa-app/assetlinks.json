@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.netlify.blissful_knuth_6637a6.twa",
+                     "sha256_cert_fingerprints": ["1E:7F:DE:BD:1B:A0:FA:51:18:C0:C1:34:3A:F7:38:20:C1:80:72:BD:26:AE:E9:20:10:A5:9F:17:9D:12:06:0C"] }
+      }
+]
